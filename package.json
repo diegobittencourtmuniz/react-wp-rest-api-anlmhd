@@ -1,0 +1,49 @@
+{
+  "name": "meurancho",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@callstack/react-theme-provider": ">= 3.0.0",
+    "atomize": "^1.0.26",
+    "axios": "0.19.2",
+    "bootstrap": "4.5.0",
+    "flickity": "2.2.1",
+    "prop-types": "15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-flickity-component": "3.5.0",
+    "react-is": ">= 16.8.0",
+    "react-loading-skeleton": "2.1.1",
+    "react-modal": "^3.11.2",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "5.2.0",
+    "react-transition-group": ">= 4",
+    "redux": "^2.0.0 || ^3.0.0 || ^4.0.0-0",
+    "styletron-engine-atomic": "1.4.6",
+    "styletron-react": "^5.2.7",
+    "styletron-standard": "^3.0.4",
+    "swr": "^0.2.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
